@@ -12,8 +12,8 @@ Blog : https://velog.io/@hyejiseo-dev
 - HealthKit를 사용하여 IOS 에서 애플워치 데이터를 수집할 수 있도록 테스트
 - swift, firebase, healthkit sdk 사용
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Application Version
 - minSdkVersion : 23
@@ -24,6 +24,7 @@ Blog : https://velog.io/@hyejiseo-dev
 
 ## Database 
 Firebase DB 사용
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## License
 인프런 강의 : 냉동코더의 알기 쉬운 Modern Android Development 입문
