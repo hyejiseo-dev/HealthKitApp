@@ -23,9 +23,5 @@ Blog : https://velog.io/@hyejiseo-dev
 - [open API of Apple HealthKit (homepage : https://developer.apple.com/documentation/healthkit) <br />
 
 ## Database 
-Firebase DB 사용
+Firebase DB 사용 </br>
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-## License
-인프런 강의 : 냉동코더의 알기 쉬운 Modern Android Development 입문
-(https://www.inflearn.com/course/%EC%95%8C%EA%B8%B0%EC%89%AC%EC%9A%B4-modern-android/dashboard)
